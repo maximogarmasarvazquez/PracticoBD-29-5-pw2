@@ -1,0 +1,13 @@
+#Dark {
+    background-color: rgb(23, 44, 22);
+    color: white;
+  }
+  #Dark h1 {
+    color: black;
+  }
+
+  
+  #Light {
+
+	background-color: rgb(117, 192, 130);
+  }

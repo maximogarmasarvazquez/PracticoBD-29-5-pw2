@@ -1,0 +1,18 @@
+.cart-table {
+    max-width: 100%;
+    border-collapse: collapse;
+}
+
+.cart-table th, .cart-table td {
+    border: 1px solid #908d8d;
+    padding: 10px;
+    text-align: left;
+}
+
+.cart-table th {
+}
+
+.carrito-container{
+    max-width: 100%;
+    margin: 0 auto;
+}

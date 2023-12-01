@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+/*Cards*/
+.container-card-admin{
+	background-color: rgb(117, 192, 130);
+	font-family: 'Montserrat', sans-serif;
+
+}
+

@@ -1,0 +1,42 @@
+**** ENUNCIADO ***
+
+Proyecto TIENDA ONLINE
+
+Crear un proyecto que permita a un negocio de productos NNNN… realizar la venta de sus artículos vía internet.
+
+La tienda online, debe mostrar en primera instancia el listado de artículos destacados (pagina home)
+
+Un buscador, que permite localizar artículos por su nombre.
+
+Un listado de categorías, que haciendo clic nos lleva al listado de artículos filtrados.
+
+Funcionamiento:
+
+El usuario, navega por los productos, pudiendo hacer clic en un producto y acceder a la pagina con info ampliada y por lo menos una foto.
+
+El producto puede agregarse al carrito.
+
+Carrito: 
+
+Accesible desde un icono en la cabecera. Al ingresar nos permite ver los productos agregados, también se puede cambiar la cantidad de un articulo o eliminarlo.
+
+Un botón de confirmación de compra nos lleva al formulario de petición de datos del cliente.
+
+Al enviar los datos, la compra queda confirmada.
+
+A DESARROLLAR
+
+Se solicita, construir un backend con Node js, utilizando Express JS y Sequelize con base de datos MySQL.
+
+* Identificar tablas del sistema a construir.
+
+Crear el DER, y pensar en rutas necesarias para que funcione el portal e-commerce.
+
+Crear modelos, rutas y controladores. Sincronizar y visualizar que las tablas y relaciones se creen correctamente en MySQL.
+
+Realizar Testing sobre cada uno de los end-points (Postman, o similares)
+
+
+¿Es necesario algún End-point mas ademas de los típicos para CRUD sobre cada modelo?
+
+Visualizar el portal a construir e interrogar al backend para detectar que retorne toda la información necesaria.
